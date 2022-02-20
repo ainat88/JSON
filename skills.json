@@ -1,8 +1,8 @@
 {
 	"theory":"SDLC",
 	"HTTP":"Structure",
-	"Github":"clone","add","commit","push","branch",
-	"Gitbash":"pwd","mkdir","touch","vim",
+	"Github":["clone","add","commit","push","branch"],
+	"Gitbash":["pwd","mkdir","touch","vim"],
 	"API_test":"Postman",
 	"Logs":"Server logs",
 	"Dev_tools":true,
